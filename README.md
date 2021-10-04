@@ -4,7 +4,7 @@ You wanna play something interesting? Visit Tri-via-hub website and you could en
 
 ## Deployed Github Page
 
-Click [Heroku](https://powerful-journey-42110.herokuapp.com/) to view project.
+Click [Heroku](https://tri-via-hub.herokuapp.com/) to view project.
 
 **Contributors**
 
